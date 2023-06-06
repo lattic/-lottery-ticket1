@@ -1,6 +1,5 @@
 # -lottery-ticket1
 原生彩票体彩竞彩足球app直播赛事双端Java源码
-## 联系方式 QQ：请添加好友 536469947
 ## 联系方式1：请下载Letstalk 请添加好友 t283141315
 ## 联系方式2：飞机Telegram 请添加好友 mogu667
 
